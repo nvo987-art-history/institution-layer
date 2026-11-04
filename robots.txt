@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://institution-layer.nvo987.fr/sitemap.xml
